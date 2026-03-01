@@ -7,3 +7,4 @@ html5lib
 openpyxl
 matplotlib
 seaborn
+bs4

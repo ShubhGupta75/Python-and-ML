@@ -1,0 +1,4 @@
+2026-02-28 02:37:14 - calculator - DEBUG - Adding 10 + 15= 25
+2026-02-28 02:37:14 - calculator - DEBUG - Subtracting 15 - 10 = 5
+2026-02-28 02:37:14 - calculator - DEBUG - Multiplying 10 * 20 = 200
+2026-02-28 02:37:14 - calculator - ERROR - Division by zero error
