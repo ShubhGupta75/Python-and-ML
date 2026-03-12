@@ -7,4 +7,5 @@ html5lib
 openpyxl
 matplotlib
 seaborn
-bs4
+flask
+imblearn
